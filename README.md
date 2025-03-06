@@ -6,35 +6,13 @@ I'm a **Full-Stack Developer** with expertise in building scalable and high-perf
 
 ## 🛠 Tech Stack
 
-### **Languages**
-
-- JavaScript (TypeScript, Node.js), PHP, Golang, SQL
-
-### **Frontend**
-
-- React, Next.js, Vue, Angular, Astro
-- Zustand, Redux, jQuery
-- HTML, CSS, WordPress
-
-### **Backend**
-
-- Node.js (Express, Nest.js), PHP (Laravel, WordPress), Golang
-
-### **Databases**
-
-- MySQL, PostgreSQL, SQLite, Redis, MongoDB
-
-### **DevOps & Tools**
-
-- Git, GitHub, Docker, Kubernetes
-- AWS, DigitalOcean, Vercel, Laravel Forge, Dokku
-- CI/CD (GitHub Actions)
+**Languages:** JavaScript (TypeScript, Node.js), PHP, Golang, SQL\
+**Frontend:** React, Next.js, Vue, Angular, Astro, WordPress\
+**Backend:** Node.js (Express, Nest.js), PHP (Laravel, WordPress), Golang\
+**Databases:** MySQL, PostgreSQL, SQLite, Redis, MongoDB\
+**DevOps:** Git, Docker, Kubernetes, AWS, DigitalOcean, CI/CD (GitHub Actions)
 
 ## 📫 Get in Touch
 
-- Website: [https://www.carlosjsancheze.com/](https://www.carlosjsancheze.com/)
-- LinkedIn: [https://www.linkedin.com/in/carlosjsancheze/](https://www.linkedin.com/in/carlosjsancheze/)
-- Email: carlosjosesancheze\@gmail.com
-
-Thanks for stopping by! 🚀
+🔗 [https://www.carlosjsancheze.com/](https://www.carlosjsancheze.com/) • 💼 [https://www.linkedin.com/in/carlosjsancheze/](https://www.linkedin.com/in/carlosjsancheze/) • ✉️ carlosjosesancheze\@gmail.com
 
