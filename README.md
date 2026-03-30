@@ -23,13 +23,6 @@ My work focuses on **internal platforms, API integrations, customer portals, and
 **Databases:** PostgreSQL, MySQL, Redis, MongoDB  
 **DevOps / Tools:** Git, Docker, GitHub Actions, DigitalOcean, Vercel, Dokku
 
-## Selected Work
-
-- **Qodari IAM** — IAM platform for multi-application access control
-- **Qodari Website** — Next.js + Sanity website for software solutions and product positioning
-- **Portfolio Website** — Recruiter-friendly personal site with project case studies
-- **Timer Desktop App** — Desktop application for task/time tracking workflows
-
 ## Get in Touch
 
 🌐 [carlosjsancheze.com](https://www.carlosjsancheze.com/)  
