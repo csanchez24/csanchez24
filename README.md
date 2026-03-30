@@ -1,18 +1,28 @@
-# Hi, I'm Carlos Sanchez 👋
+# Hi, I'm Carlos J. Sanchez 👋
 
-## 🚀 About Me
+## About Me
 
-I'm a **Full-Stack Developer** with expertise in building scalable and high-performance web applications. I specialize in both frontend and backend development, with a strong focus on modern web technologies, APIs, and cloud infrastructure.
+I'm a **Full-Stack Software Engineer** with 15+ years of experience building business software, including 6+ years delivering modern web applications with JavaScript/TypeScript, React, Next.js, Node.js, and Laravel.
 
-## 🛠 Tech Stack
+My work focuses on **internal platforms, API integrations, customer portals, and product-oriented web applications**. I enjoy building software that improves operations, reduces manual work, and supports real business workflows.
 
-**Languages:** JavaScript (TypeScript, Node.js), PHP, Golang, SQL\
-**Frontend:** React, Next.js, Vue, Angular, Astro, WordPress\
-**Backend:** Node.js (Express, Nest.js), PHP (Laravel, WordPress), Golang\
-**Databases:** MySQL, PostgreSQL, SQLite, Redis, MongoDB\
-**DevOps:** Git, Docker, Kubernetes, AWS, DigitalOcean, CI/CD (GitHub Actions)
+## Tech Stack
 
-## 📫 Get in Touch
+**Languages:** JavaScript, TypeScript, PHP, SQL  
+**Frontend:** React, Next.js, Vue, Astro, Tailwind CSS  
+**Backend:** Node.js, Laravel, WordPress  
+**Databases:** PostgreSQL, MySQL, Redis, MongoDB  
+**DevOps / Tools:** Git, Docker, GitHub Actions, DigitalOcean, Vercel, Dokku
 
-🔗 [https://www.carlosjsancheze.com/](https://www.carlosjsancheze.com/) • 💼 [https://www.linkedin.com/in/carlosjsancheze/](https://www.linkedin.com/in/carlosjsancheze/) • ✉️ carlosjosesancheze\@gmail.com
+## What I Build
 
+- Internal tools and operational platforms
+- API integrations across business systems
+- Customer-facing portals and product experiences
+- Reusable frontend systems and content-driven websites
+
+## Get in Touch
+
+🌐 [carlosjsancheze.com](https://www.carlosjsancheze.com/)  
+💼 [LinkedIn](https://www.linkedin.com/in/carlosjsancheze/)  
+✉️ carlosjosesancheze@gmail.com
